@@ -1,7 +1,7 @@
 import streamlit
 
 streamlit.title("SnowPro Ninja's first appearance :) ")
-streatlit.header("[Psalm 133:1]")
+streamlit.header("[Psalm 133:1]")
 streamlit.text("How good and pleasant it is when God's people live together in unity.")
 streamlit.header("[Proverbs 1:7]")
 streamlit.text("The fear of the Lord is the beginning of knowledge.")
