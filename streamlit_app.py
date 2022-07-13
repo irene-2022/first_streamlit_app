@@ -1,6 +1,6 @@
 import streamlit
 
-streamlit.title("SnowPro Ninja's first appearance  ")
+streamlit.title("SnowPro Ninja's first appearance 🥣 🥗 🐔 🥑🍞")
 streamlit.header("[Psalm 133:1]")
 streamlit.text("How good and pleasant it is when God's people live together in unity.")
 streamlit.header("[Proverbs 1:7]")
