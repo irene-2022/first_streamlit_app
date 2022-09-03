@@ -7,6 +7,8 @@ def reward_function(params):
     # Only need the absolute steering angle
     steering = abs(params['steering_angle'])
     speed = params["speed"]
+    progress = params["progress"]
+    is_left_of_center = params["is_left_of_center"]
        
     # Constants #########################################
 
