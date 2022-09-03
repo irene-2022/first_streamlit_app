@@ -1,4 +1,3 @@
-
 def reward_function(params):
     # Read input parameters
     all_wheels_on_track = params['all_wheels_on_track']
